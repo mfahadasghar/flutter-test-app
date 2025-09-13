@@ -20,7 +20,7 @@ class MyBusinessCard extends StatelessWidget {
               const CircleAvatar(
                 radius: 50,
                 backgroundImage: AssetImage(
-                  'assets/profile.jpg',
+                  'assets/images/profile.jpeg',
                 ), // Add your picture here
               ),
               const SizedBox(height: 16),
